@@ -1,0 +1,115 @@
+/* ================= DASAR ================= */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+
+/* ================= CONTAINER ================= */
+
+.main-container {
+    background-color: white;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+
+/* ================= NAVBAR ================= */
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+
+/* ================= JUDUL ================= */
+
+h1 {
+    color: darkblue;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+
+/* ================= PARAGRAF ================= */
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+
+/* ================= KUTIPAN ================= */
+
+.kutipan {
+    background-color: white;
+    padding: 15px;
+    border-left: 5px solid darkblue;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* ================= CARD ================= */
+
+.card {
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+
+/* ================= MEDIA SOSIAL ================= */
+
+.link-sosial {
+    display: inline-block;
+    padding: 8px 12px;
+    margin-top: 5px;
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+}
+
+.link-sosial:hover {
+    background-color: #000066;
+    color: white;
+}
+
+
+/* ================= FORM ================= */
+
+form {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid darkblue;
+}
+
+
+/* ================= INFORMASI PRIBADI ================= */
+
+.info-pribadi {
+    background-color: white;
+    padding: 15px;
+    border-width: 2px;
+    border-style: double;
+    border-color: darkblue;
+    margin-top: 30px;
+    min-width: 300px;
+    max-width: 450px;
+}
+
+
+/* ================= PENUTUP ================= */
+
+.penutup {
+    margin-top: 30px;
+    margin-bottom: 0;
+}
